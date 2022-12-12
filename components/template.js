@@ -9,7 +9,7 @@ export default {
         return `
         <div class="input-container">
         <label class="label-form">Name</label>
-        <input class="input-form" id="Custom input element" placeholder="Type here">      
+        <input class="input-form" id="Custom input element" placeholder="Имя">      
         </div>
 
         `
